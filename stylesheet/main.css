@@ -1,0 +1,167 @@
+body {
+    background: #455a64;
+}
+
+#mynav a {
+    color: black;
+}
+
+#mynav li a {
+    font-size: 16px;
+    color: #757575;
+}
+
+#homepagebody {
+    background: white;
+}
+
+#banner {
+    text-align: center;
+    padding: 80px 0px;
+    font-size: 70px;
+/*    background: #677077;*/
+/*    background: #546e7a;*/
+
+
+}
+
+#banner a {
+    margin: 35px 0px;
+    font-size: 15px;
+    height: 50px;
+}
+
+#welcome {
+    margin-bottom: 100px;
+    text-align: center;
+}
+
+#time {
+    text-align: center;
+}
+
+#navcard {
+    margin-top: 120px;
+}
+#navcard-icon {
+    font-size: 50px;
+    text-align: center;
+}
+
+
+/* basic login, register, contact form style */
+
+#loginform span,
+#registerform span,
+#myinfoform span,
+#myreview span {
+    font-size: 30px;
+}
+
+#loginform input,
+#registerform input,
+#contactinfo input,
+#additem input,
+#updateitem input,
+#myinfoform input {
+    font-size: 20px;
+}
+
+#loginform h3,
+#registerform h3,
+#additem h3,
+#updateitem h3 {
+    color: red;
+    font-size: 1.7em;
+}
+
+/* login form style */
+
+#loginform {
+    margin: 150px 0px;
+}
+
+
+/* register form style */
+
+#registerform {
+    margin: 100px 0px;
+}
+
+/* item table style */
+
+
+#itemtable {
+    margin-top: 100px;
+    background: white;
+    padding: 50px;
+}
+
+#itemtable td {
+    font-size: 1.0em;
+ 
+}
+
+/* contact info box style */
+#contactinfo {
+    margin: 100px 0px;
+}
+
+#contactinfo span {
+    font-size: 30px;
+}
+
+#contactinfo p {
+    font-size: 20px;
+}
+
+/* contact form style */
+main hr {
+ border: 0; 
+ background-image: 
+     linear-gradient(to right, rgba(0, 0, 0, 0), 
+     rgba(255, 255, 255, 0.75), rgba(0, 0, 0, 0));
+  height: 1px; 
+}
+
+/* review info style */
+#reviewinfo {
+    margin: 70px 0px;
+}
+
+/* add item style */
+#additem {
+    margin: 120px 0px;
+}
+
+/* update item style */
+
+#updateitem {
+    margin: 70px 0px;
+}
+
+#updateitemtitle {
+    font-size: 30px;
+}
+
+/* my item table style */
+.btn-floating {
+    margin: 50px 0px;
+}
+
+#myitemtable {
+    margin-top: 20px;
+    background: white;
+    padding: 50px;    
+}
+
+#myitemtable td {
+    font-size: 1.0em;
+ 
+}
+
+/* profile style */
+
+#myinfoform {
+    margin: 70px 0px;
+}
